@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+    body#pick-team {
+        background-position: center -250px;
+    }
+}
+
+@media (max-width: 767px) {
+    body#pick-team {
+        background-position: center -250px;
+    }
+}
